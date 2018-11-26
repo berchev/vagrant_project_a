@@ -29,7 +29,7 @@ This repository provides to you **Ubuntu Xenial Box** configured as follows:
 - Click on following link: [Installing vagrant](https://www.vagrantup.com/docs/installation/)
 
 ### Instructions HOW to run this project on your computer
-- Download the content of ** berchev/vagrant_project_a** repository: `git clone https://github.com/berchev/vagrant_project_a.git`
+- Download the content of **berchev/vagrant_project_a** repository: `git clone https://github.com/berchev/vagrant_project_a.git`
 - Change to downloaded **vagrant_project_a** directory: `cd vagrant_project_a`
 - Type `vagrant up` and wait the command to finish (Note that it can take up to 10 minutes, depending on your internet connection)
 - Type `vagrant ssh` in order to connect to your Ubuntu Xenial Box via ssh
